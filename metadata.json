@@ -1,0 +1,7 @@
+{
+  "name": "BizGen - JustDial Scraper & Content Suite",
+  "description": "A high-end business promotional tool that retrieves business details from URLs and uses Gemini AI to generate professional marketing copies and interactive business card designs.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
